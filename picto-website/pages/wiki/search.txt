@@ -1,0 +1,86 @@
+====== 总览 ======
+
+[[wiki:unverified|这里]]列出了所有未经验证的字形。若想访问旧的总览，请点击[[wiki:search_old|]]。未验证字形在[[wiki:unverified|这里]]。
+
+===== 全部部首 =====
+==== A ====
+[[{:ccns:aa:aa00.png|width:7em}:ccns:aa|AA 虚词部]]
+
+==== B ====
+[[{:ccns:ba:ba00.png|width:7em}:ccns:ba|BA 田部]]
+[[{:ccns:be:be00.png|width:7em}:ccns:be|BE 有部]]
+[[{:ccns:bo:bo00.png|width:7em}:ccns:bo|BO 弓部]]
+
+==== D ====
+[[{:ccns:do:do00.png|width:7em}:ccns:do|DO 动部]]
+
+==== E ====
+[[{:ccns:ea:ea00.png|width:7em}:ccns:ea|EA 吃部]]
+[[{:ccns:el:el00.png|width:7em}:ccns:el|EL 电部]]
+[[{:ccns:er:er00.png|width:7em}:ccns:er|ER 耳部]]
+[[{:ccns:ey:ey00.png|width:7em}:ccns:ey|EY 目部]]
+
+==== F ====
+[[{:ccns:fa:fa00.png|width:7em}:ccns:fa|FA 父部]]
+[[{:ccns:fg:fg00.png|width:7em}:ccns:fg|FG 指部]]
+[[{:ccns:fi:fi00.png|width:7em}:ccns:fi|FI 火部]]
+[[{:ccns:fo:fo00.png|width:7em}:ccns:fo|FO 食部]]
+[[{:ccns:fr:fr00.png|width:7em}:ccns:fr|FR 数部]]
+[[{:ccns:ft:ft00.png|width:7em}:ccns:ft|FT 果部]]
+
+==== G ====
+[[{:ccns:go:go00.png|width:7em}:ccns:go|GO 金部]]
+
+==== H ====
+[[{:ccns:ha:ha00.png|width:7em}:ccns:ha|HA 手部]]
+[[{:ccns:he:he00.png|width:7em}:ccns:he|HE 心部]]
+
+==== I ====
+[[{:ccns:in:in00.png|width:7em}:ccns:in|IN 于部]]
+
+==== K ====
+[[{:ccns:kn:kn00.png|width:7em}:ccns:kn|KN 刀部]]
+
+==== L ====
+[[{:ccns:la:la00.png|width:7em}:ccns:la|LA 地部]]
+[[{:ccns:le:le00.png|width:7em}:ccns:le|LE 叶部]]
+[[{:ccns:li:li00.png|width:7em}:ccns:li|LI 乐部]]
+[[{:ccns:ln:ln00.png|width:7em}:ccns:ln|LN 灯部]]
+
+==== M ====
+[[{:ccns:ma:ma00.png|width:7em}:ccns:ma|MA 男部]]
+[[{:ccns:ms:ms00.png|width:7em}:ccns:ms|MS 舌部]]
+
+==== N ====
+[[{:ccns:no:no00.png|width:7em}:ccns:no|NO 无部]]
+[[{:ccns:ns:ns00.png|width:7em}:ccns:ns|NS 鼻部]]
+
+==== O ====
+[[{:ccns:ob:ob00.png|width:7em}:ccns:ob|OB 物部]]
+
+==== P ====
+[[{:ccns:pa:pa00.png|width:7em}:ccns:pa|PA 纸部]]
+[[{:ccns:pe:pe00.png|width:7em}:ccns:pe|PE 人部]]
+
+==== R ====
+[[{:ccns:re:re01.png|width:7em}:ccns:re|RE 强部]]
+[[{:ccns:rn:rn00.png|width:7em}:ccns:rn|RN 归部]]
+
+==== S ====
+[[{:ccns:sa:sa00.png|width:7em}:ccns:sa|SA 同部]]
+[[{:ccns:se:se01.png|width:7em}:ccns:se|SE 水部]]
+[[{:ccns:sk:sk00.png|width:7em}:ccns:sk|SK 天部]]
+[[{:ccns:sl:sl00.png|width:7em}:ccns:sl|SL 睡部]]
+[[{:ccns:sp:sp00.png|width:7em}:ccns:sp|SP 言部]]
+[[{:ccns:su:su00.png|width:7em}:ccns:su|SU 日部]]
+[[{:ccns:sx:sx00.png|width:7em}:ccns:sx|SX 性部]]
+
+==== T ====
+[[{:ccns:tr:tr00.png|width:7em}:ccns:tr|TR 树部]]
+[[{:ccns:tu:tu00.png|width:7em}:ccns:tu|TU 跪部]]
+
+==== U ====
+[[{:ccns:up:up00.png|width:7em}:ccns:up|UP 上部]]
+
+==== W ====
+[[{:ccns:we:we00.png|width:7em}:ccns:we|WE 女部]]

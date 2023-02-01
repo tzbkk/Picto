@@ -1,0 +1,17 @@
+====== 总览（过时） ======
+根据部首将所有的字分门别类整理。若要查阅未验证字形，请点击[[wiki:unverified|]]。
+<wrap hi>新的更美观的总览在[[wiki:search|这里]]！（实验性）</wrap>
+<WRAP group>
+
+<WRAP half column>
+===== 所有部首 =====
+{{indexmenu>:ccns#1}}
+</WRAP>
+
+<WRAP half column>
+===== 所有字形 =====
+{{indexmenu>:ccns#2}}
+</WRAP>
+
+
+</WRAP>

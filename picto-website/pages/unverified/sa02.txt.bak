@@ -1,0 +1,2 @@
+====== test ======
+<php>$renderer->doc .= $this->countAllPages($stat) -1;</php>

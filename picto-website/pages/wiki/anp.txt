@@ -1,0 +1,23 @@
+====== 新建页面 ======
+在这里你可以更加方便地创建页面。
+<WRAP center round box 40%>
+
+<WRAP group>
+<WRAP half column>
+直接在字典中创建：
+{{NEWPAGE>ccns}}
+</WRAP>
+
+<WRAP half column>
+未归档的字在这里：
+{{NEWPAGE>unverified}}
+</WRAP>
+
+</WRAP>
+</WRAP>
+
+
+<WRAP center round important 60%>
+注意：你可以未取得字码而创建字形页面，但不为CCNS字典所认可，详见[[wiki:doc:cha_num]]（你的所有修改记录都已保存，不必考虑用篡改页面的方式攻击我们）。对于新部首，请手动键入URL：<wrap em>ccns.site/doku.php?id=unverified:<你的部首名>:<你的第一个字码></wrap>。
+</WRAP>
+

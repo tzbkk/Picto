@@ -1,0 +1,33 @@
+
+
+----
+
+== 友情链接 ==
+
+
+<html>
+<a href="http://yqshare.cn/">云雀小站 - <em>一个平平无奇的小站</em></a> | 
+<a href="https://tcjblog.com">田超杰的博客 - <em>一个传播计算机知识和人生哲理的博客</em></a> | 
+<a href="https://dh.202s.cn/">二零二导航网</a> |
+<a href="https://dxtao.cn/">学习笔记</a> |  
+<a href="http://www.9866006.com">抖音小号购买</a> |
+<a href="https://taiwan-youthbusinessloan.com/hualien-county.html">花蓮縣 借址登記</a> 
+
+
+
+</html>
+
+== 关于 ==
+[[wiki:tzbkk|站长信息]]|[[wiki:donate|捐款]]|[[wiki:ackn|鸣谢]]
+
+<html>
+<div style="width:300px;margin:0 auto; padding:20px 0;">
+<a target="_blank" href="https://beian.miit.gov.cn/" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+<p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">鲁ICP备2022028212号-1</p>
+</a>
+<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=37030302000710" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+<img src="https://www.beian.gov.cn/portal/download?token=b0dd7956-4504-4004-85fb-8193bf0cec67" style="float:left;"/>
+<p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">鲁公网安备 37030302000710号</p>
+</a>
+</div>
+</html>
